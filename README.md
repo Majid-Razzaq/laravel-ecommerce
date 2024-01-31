@@ -5,54 +5,54 @@
 ## Features
 
 ## User Dashboard
--  Explore and manage your orders and account details with a user-friendly dashboard.
+Explore and manage your orders and account details with a user-friendly dashboard.
 
 ## Admin Dashboard
--  Full control for administrators with access to all functionalities.
+Full control for administrators with access to all functionalities.
 
 ## Mobile-Friendly Website
--  Responsive design ensures a seamless experience on various devices.
+Responsive design ensures a seamless experience on various devices.
 
 ## 3 Step Booking Process
--  Simple and efficient booking process for users.
+Simple and efficient booking process for users.
 
 ## Order Tracking
--  Track your orders easily through the provided order tracking feature.
+Track your orders easily through the provided order tracking feature.
 
 ## Email Notifications
--  Receive email notifications for order confirmations and updates.
+Receive email notifications for order confirmations and updates.
 
 ## Product Search Form
--  User-friendly search functionality for quick and precise product discovery.
+User-friendly search functionality for quick and precise product discovery.
 
 ## Shopping Cart in a Responsive Layout
--  Easily manage your selected items in a responsive and intuitive shopping cart.
+Easily manage your selected items in a responsive and intuitive shopping cart.
 
 ## Pre-Defined Content with High-Resolution Photos
--  Rich content presentation with high-quality images for an enhanced shopping experience.
+Rich content presentation with high-quality images for an enhanced shopping experience.
 
 ## Search Engine Optimization (SEO) for Products
--  Optimize product visibility on search engines for increased discoverability.
+Optimize product visibility on search engines for increased discoverability.
 
 ## Recommendations and Related Products
--  Enhance user experience with product recommendations and related items.
+Enhance user experience with product recommendations and related items.
 
 ## Coupon Code
--  Apply coupon codes during the checkout process for discounts.
+Apply coupon codes during the checkout process for discounts.
 
 ## Product Filter
--  Efficiently filter products based on categories, brands, and price options.
+Efficiently filter products based on categories, brands, and price options.
 
 ## Add to Cart Functionality
--  Seamless addition of products to the shopping cart for a convenient shopping experience.
+Seamless addition of products to the shopping cart for a convenient shopping experience.
 
 ## Admin Features
 
 ## Create, Edit, Update, Delete Products
--  Full control over product management for administrators.
+Full control over product management for administrators.
 
 ## Manage Users, Orders, Categories, Brands
--  Comprehensive view and control over users, orders, categories, and brands.
+Comprehensive view and control over users, orders, categories, and brands.
 
 ## Admin Panel Options
 -  Categories
@@ -66,10 +66,10 @@
 -  Pages
 
 ## Comment Management
--  Admin can control user comments, including approval and blocking.
+Admin can control user comments, including approval and blocking.
 
 ## Search Options
--  Efficient search options for admin across various functionalities.
+Efficient search options for admin across various functionalities.
 
 ## Requirements
 -  Laravel = 9.52.16
